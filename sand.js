@@ -3,7 +3,7 @@ class Sand {
     
       var options={
     
-      'restitution':1.3,
+      'restitution':0.3,
       'friction':5,
       'density':1
     }
